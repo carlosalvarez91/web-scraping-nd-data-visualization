@@ -7,6 +7,7 @@
 
 # dependencies
 /FE/node_modules
+/BE/node_modules
 
 # IDEs and editors
 /FE/.idea

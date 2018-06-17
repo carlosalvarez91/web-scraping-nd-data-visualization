@@ -1,39 +1,39 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # compiled output
-/dist
-/tmp
-/out-tsc
+/FE/dist
+/FE/tmp
+/FE/out-tsc
 
 # dependencies
-/node_modules
+/FE/node_modules
 
 # IDEs and editors
-/.idea
-.project
-.classpath
-.c9/
-*.launch
-.settings/
-*.sublime-workspace
+/FE/.idea
+/FE/.project
+/FE/.classpath
+/FE/.c9/
+/FE/*.launch
+/FE/.settings/
+/FE/*.sublime-workspace
 
 # IDE - VSCode
-.vscode/*
-!.vscode/settings.json
-!.vscode/tasks.json
-!.vscode/launch.json
-!.vscode/extensions.json
+/FE/.vscode/*
+/FE/!.vscode/settings.json
+/FE/!.vscode/tasks.json
+/FE/!.vscode/launch.json
+/FE/!.vscode/extensions.json
 
 # misc
-/.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
+/FE//.sass-cache
+/FE//connect.lock
+/FE//coverage
+/FE//libpeerconnection.log
+/FE/npm-debug.log
+/FE/yarn-error.log
+/FE/testem.log
+/FE/typings
 
 # System Files
-.DS_Store
-Thumbs.db
+/FE/.DS_Store
+/FE/Thumbs.db
